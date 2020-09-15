@@ -55,12 +55,6 @@ Follow the following steps to get development environment running.
   git clone https://github.com/drminnaar/react-starter.git
   ```
 
-   _OR USING SSH_
-
-  ```bash
-  git clone git@github.com:drminnaar/react-starter.git
-  ```
-
 * Install node modules
 
    ```bash
