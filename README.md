@@ -49,16 +49,16 @@ Type the following commands in the terminal to verify your node and npm versions
 
 Follow the following steps to get development environment running.
 
-* Clone _'react-starter'_ repository from GitHub
+* Clone _'react-starter-project'_ repository from GitHub
 
   ```bash
-  git clone https://github.com/drminnaar/react-starter.git
+  git clone https://github.com/SahilDeb/react-starter-project.git
   ```
 
 * Install node modules
 
    ```bash
-   cd react-starter
+   cd react-starter-project
    npm install
    ```
 
